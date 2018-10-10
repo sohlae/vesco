@@ -1,0 +1,116 @@
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\Vesco.dll.config
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\Vesco.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\Vesco.pdb
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\csc.exe
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\csc.exe.config
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\csc.rsp
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\csi.exe
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\csi.exe.config
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\csi.rsp
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.AppContext.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Console.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.IO.Compression.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Security.Claims.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Threading.Thread.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.ValueTuple.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\vbc.exe
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\vbc.exe.config
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\vbc.rsp
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\VBCSCompiler.exe
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\obj\Debug\Vesco.csprojAssemblyReference.cache
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\obj\Debug\Vesco.csproj.CoreCompileInputs.cache
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\obj\Debug\Vesco.csproj.CopyComplete
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\obj\Debug\Vesco.dll
+C:\Users\mojs\OneDrive - ERNI Group\Visual Studio\Projects\Vesco\Vesco\obj\Debug\Vesco.pdb
+C:\Code Repositories\Vesco\Vesco\bin\Vesco.dll.config
+C:\Code Repositories\Vesco\Vesco\bin\Vesco.dll
+C:\Code Repositories\Vesco\Vesco\bin\Vesco.pdb
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\csc.exe
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\csc.exe.config
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\csc.rsp
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\csi.exe
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\csi.exe.config
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\csi.rsp
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.AppContext.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Collections.Immutable.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Console.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Diagnostics.Process.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.IO.Compression.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.IO.FileSystem.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.IO.Pipes.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Reflection.Metadata.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Security.AccessControl.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Security.Claims.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Threading.Thread.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.ValueTuple.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Xml.XPath.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\vbc.exe
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\vbc.exe.config
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\vbc.rsp
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\VBCSCompiler.exe
+C:\Code Repositories\Vesco\Vesco\bin\roslyn\VBCSCompiler.exe.config
+C:\Code Repositories\Vesco\Vesco\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Code Repositories\Vesco\Vesco\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Code Repositories\Vesco\Vesco\obj\Debug\Vesco.csprojAssemblyReference.cache
+C:\Code Repositories\Vesco\Vesco\obj\Debug\Vesco.csproj.CoreCompileInputs.cache
+C:\Code Repositories\Vesco\Vesco\obj\Debug\Vesco.csproj.CopyComplete
+C:\Code Repositories\Vesco\Vesco\obj\Debug\Vesco.dll
+C:\Code Repositories\Vesco\Vesco\obj\Debug\Vesco.pdb
