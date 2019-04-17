@@ -9,3 +9,7 @@ This project is created for my course in Udemy entitled **Building Modern Respon
 - jQuery 3.3.1 - to support some of the third-party tools that we used (i.e. WOW, Magnific, etc.)
 - Magnific Popup 1.1.0 - to create a gallery-like feel when clicking on images
 - Wow 1.3.0 - for revealing animations only after scrolling to a certain content in the web page
+- Owl Carousel 2.3.4 - for creating beautiful gallery sliders
+
+### Setting Up the Development Environment
+1. You will need to install a code editor to open the source code. Popular options include *Visual Studio Code* and *Sublime Text*.
