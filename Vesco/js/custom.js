@@ -35,4 +35,15 @@
         delay: 10,
         time: 2000
     });
+
+    // ============================================================
+    //                             CLIENTS
+    // ============================================================
+    $("#clients-list").owlCarousel({
+        items: 6,
+        autoplay: true,
+        smartSpeed: 700,
+        loop: true,
+        autoplayHoverPause: true
+    });
 });
